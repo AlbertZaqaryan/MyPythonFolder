@@ -1,2 +1,3 @@
 # MyPythonFolder
-python programming
+Hello this is my project folder
+
